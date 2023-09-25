@@ -15,7 +15,13 @@ FullStack Developer
 - I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
 
 ### Tecnologies
-[ ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)]
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+ ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=1572B6)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=CE689F)
+ ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+ ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+      
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
