@@ -31,10 +31,10 @@ FullStack Developer
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS, Boostrap
-
-**Server:** Node, Express, PostgreSql
-
+- **Frontend: HTML, CSS, JavaScript, React**
+- **Backend: Node.js, Express.js**
+- **Database: MongoDB, PostgreSQL**
+- **Tools: Git, VS Code, Postman**
 
 <!---
 Omarx32/Omarx32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
