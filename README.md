@@ -1,5 +1,5 @@
 
-# Hi I'm Omar Sampayo
+<h1>Hi! I'm Omar Sampayo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 FullStack Developer
 -
 
